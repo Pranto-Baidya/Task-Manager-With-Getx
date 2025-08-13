@@ -30,7 +30,7 @@ shared_preferences – Local storage for session data
 
 ## Project screenshots
 ![IMG-20250813-WA0095](https://github.com/user-attachments/assets/2ba252c7-3b49-468d-a1c5-c8eed9fcbe2e)
-![IMG-20250813-WA0094](https://github.com/user-attachments/assets/70d366a3-17c6-4e7d-a26e-142802c83a73)
+![WhatsApp Image 2025-08-13 at 17 53 38_4322478f](https://github.com/user-attachments/assets/a28efe9f-cccd-4a31-9512-5567d039107d)
 ![IMG-20250813-WA0088](https://github.com/user-attachments/assets/f8c67589-f37f-4a64-bd90-068aa738c92f)
 ![WhatsApp Image 2025-08-13 at 17 47 10_8a5e96c4](https://github.com/user-attachments/assets/443ed36f-04a2-45e7-a4c1-fd45753fae5f)
 ![IMG-20250813-WA0089](https://github.com/user-attachments/assets/acdfb57c-01d5-4a91-98d8-7ddcb6419e1d)
