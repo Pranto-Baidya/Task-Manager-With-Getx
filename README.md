@@ -1,4 +1,4 @@
-# Flutter task manager app with REST API
+# Task Manager App (Flutter + GetX)
 
 A modern Task Manager App built with Flutter and GetX state management. This app includes CRUD operations and role-based authentication powered by a REST API.
 
